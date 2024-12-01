@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an passionate Software Engineering student at 42Wolfsburg and I have developed a strong proficiency in C and C++ through hands-on projects that include:
+I am an Software Engineering student at 42Wolfsburg and I have developed a strong proficiency in C and C++ through hands-on projects that include:
 
 | Project  | Language | Description |
 |:--------------:|:--------:|:--------------|
