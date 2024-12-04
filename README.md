@@ -14,4 +14,4 @@ I am an Software Engineering student at 42Wolfsburg and I have developed a stron
 | [minishell](https://github.com/mottjes/minishell) | C | This project is about creating a fully functional shell from scratch, which should behave like bash, just with less features |
 | [cub3d](https://github.com/mottjes/cub3d) | C | This project is a simple raycaster to simulate 3d rooms, like in the old Wolfenstein 3D game. |
 | [cpp_modules](https://github.com/mottjes/cpp_modules) | C++ | This are 10 C++ modules with a series of exercises which are designed to learn and understand the specificities of the language and Object-Oriented Programming. |
-| [webserv](https://github.com/mottjes/webserv) | C++ | Work in progress ... (This project was about writing our own HTTP server) |
+| [webserv](https://github.com/mottjes/webserv) | C++ | Work in progress ... (This project is about writing our own HTTP server) |
