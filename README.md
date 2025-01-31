@@ -15,3 +15,4 @@ I am an Software Engineering student at 42Wolfsburg and I have developed a stron
 | [cub3d](https://github.com/mottjes/cub3d) | C | This project is a simple raycaster to simulate 3d rooms, like in the old Wolfenstein 3D game. |
 | [cpp_modules](https://github.com/mottjes/cpp_modules) | C++ | This are 10 C++ modules with a series of exercises which are designed to learn and understand the specificities of the language and Object-Oriented Programming. |
 | [webserv](https://github.com/mottjes/webserv) | C++ | This project is about writing our own HTTP server from scratch in C++98 |
+| [inception](https://github.com/mottjes/inception) | Docker | This project is about setting up a small infrastructure composed of different services using Docker containers. |
